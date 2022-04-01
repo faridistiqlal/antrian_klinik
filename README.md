@@ -47,5 +47,5 @@ User | Melihat daftar layanan
 User | Memberi rating dokter
 User | Mengedit informasi user
 
-## Hire Me 🔗
+## Say Hello 🔗
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-istiqlal-1ab8a0138/)
