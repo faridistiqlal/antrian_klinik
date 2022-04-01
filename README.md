@@ -1,6 +1,6 @@
-# antrian_dokter
+# Antrian Klinik
 
-A new Flutter project.
+Projek "Antrian Klinik" merupakan aplikasi mobile android untuk membantu klinik dalam pendaftaran antrian pelayanan dan manajemen dokter,layanan klinik.
 
 ## Getting Started
 
