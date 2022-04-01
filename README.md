@@ -28,3 +28,24 @@ Projek "Antrian Klinik" merupakan aplikasi mobile android untuk membantu klinik 
 - Super Admin
 - Admin Klinik
 - Pasien
+
+### Action Setiap User 📋
+User  | Aksi
+------------- | -------------
+Super Admin | Mengelola backend database sistem
+Admin Klinik  | Menambah dan menghapus dokter
+Admin Klinik  | Menambah dan menghapus layanan praktek 
+Admin Klinik  | Menambah dan menghapus jadwal praktek
+Admin Klinik  | Menambah dan menghapus pasien
+User | Mendaftar klinik
+User | Mendapat kartu digital
+User | Membuat janji periksa
+User | Melihat histori periksa
+User | Melihat detail keluarga yang di daftarkan klinik
+User | Melihat daftar dokter
+User | Melihat daftar layanan
+User | Memberi rating dokter
+User | Mengedit informasi user
+
+## Hire Me 🔗
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-istiqlal-1ab8a0138/)
