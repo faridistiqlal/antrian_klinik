@@ -5,7 +5,7 @@ Projek "Antrian Klinik" merupakan aplikasi mobile android untuk membantu klinik 
 
 ## Screenshots
 
-<img src="https://drive.google.com/uc?export=view&id=10igGRFSyl_4aXylJGoJpil_YpP3Hkk_s" >
+<img src="https://drive.google.com/uc?export=view&id=19kP8nTyvtV2jlJV3h2k3FVSD-jNxinot" >
 
 ## Authors
 
