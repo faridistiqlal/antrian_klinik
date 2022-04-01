@@ -2,6 +2,11 @@
 
 Projek "Antrian Klinik" merupakan aplikasi mobile android untuk membantu klinik dalam pendaftaran antrian pelayanan dan manajemen dokter,layanan klinik.
 
+## Authors
+
+- [@Farid Istiqlal](https://github.com/faridistiqlal)
+- [@Lysin](https://github.com/mrlysin)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
