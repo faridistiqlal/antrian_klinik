@@ -7,6 +7,19 @@ Projek "Antrian Klinik" merupakan aplikasi mobile android untuk membantu klinik 
 - [@Farid Istiqlal](https://github.com/faridistiqlal)
 - [@Lysin](https://github.com/mrlysin)
 
+## Features
+
+- Menu admin dashboard.
+- Menambah dokter,jadwal dokter,layanan.
+- Auto generate QRCode user baru.
+- Riwayat periksa pasien.
+- Tambah pasangan, keluarga, anak
+- Rating dokter
+- Jadwal periksa hari ini
+- Kartu periksa digital
+- Edit akun dan data pasien
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
