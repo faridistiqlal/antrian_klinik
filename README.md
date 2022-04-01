@@ -2,6 +2,11 @@
 
 Projek "Antrian Klinik" merupakan aplikasi mobile android untuk membantu klinik dalam pendaftaran antrian pelayanan dan manajemen dokter,layanan klinik.
 
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1GdZXK8wRdoXIPvkjjbzN-sG4-Jvshtjm) 
+
 ## Authors
 
 - [@Farid Istiqlal](https://github.com/faridistiqlal)
