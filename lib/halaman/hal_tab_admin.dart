@@ -43,10 +43,8 @@ class _HalTabAdminState extends State<HalTabAdmin> {
               // color: Color(0xFF44AEA5),
             ),
             icon: Icon(Icons.event_note),
-            title: Text(
-              "Janji",
-              // style: TextStyle(color: Color(0xFF44AEA5)),
-            ),
+            label: "Janji",
+
             // backgroundColor: Colors.blue,
           ),
           BottomNavigationBarItem(
@@ -58,10 +56,8 @@ class _HalTabAdminState extends State<HalTabAdmin> {
               Icons.storage,
               // color: Color(0xFF44AEA5),
             ),
-            title: Text(
-              "Data",
-              // style: TextStyle(color: Color(0xFF44AEA5)),
-            ),
+            label: "Data",
+            // style: TextStyle(color: Color(0xFF44AEA5)),
           ),
         ],
         onTap: (index) {

@@ -42,24 +42,24 @@ class _HalCekState extends State<HalCek> {
         items: [
           BottomNavigationBarItem(
             icon: Icon(Icons.home),
-            title: Text("Home"),
+            label: "Home",
             backgroundColor: Colors.blue,
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.credit_card),
-            title: Text("Kartu"),
+            label: "Kartu",
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.add),
-            title: Text("Janji"),
+            label: "Janji",
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.local_hospital),
-            title: Text("Dokter"),
+            label: "Dokter",
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.person),
-            title: Text("Akun"),
+            label: "Akun",
           ),
         ],
         onTap: (index) {

@@ -817,7 +817,7 @@ class _InputJadwalState extends State<InputJadwal> {
             color: Colors.grey,
           ),
           prefixIcon: Icon(
-            Icons.pie_chart_outlined,
+            Icons.pie_chart_outline,
             color: Colors.grey,
           ),
         ),

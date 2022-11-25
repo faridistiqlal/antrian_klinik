@@ -147,7 +147,6 @@ class _EditJadwalState extends State<EditJadwal> {
     super.dispose();
   }
 
-  
   Future getDokter() async {
     String theUrl = getMyUrl.url + 'Dokter/GetAllData';
     var res = await http.get(
@@ -910,7 +909,7 @@ class _EditJadwalState extends State<EditJadwal> {
             color: Colors.grey,
           ),
           prefixIcon: Icon(
-            Icons.pie_chart_outlined,
+            Icons.pie_chart_outline_rounded,
             color: Colors.grey,
           ),
         ),
