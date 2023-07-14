@@ -8,7 +8,4 @@ class getMyUrl {
 
   // static String url = 'http://192.168.43.118/klinikapp/webservice/';
   // static String urlQR = 'http://192.168.43.118/klinikapp/assets/QrCode/';
-
-  // static String url = 'http://192.168.98.173/klinikapp/webservice/';
-  // static String urlQR = 'http://192.168.98.173/klinikapp/assets/QrCode/';
 }
